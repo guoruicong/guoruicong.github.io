@@ -1,0 +1,13 @@
+# 依赖与构建产物
+node_modules
+dist
+
+# 系统/编辑器
+.DS_Store
+*.log
+
+# 工具
+.playwright-cli
+
+# 超过 GitHub 100MB 限制的大文件（站点未使用）
+assets/corner-character.mov
